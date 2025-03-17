@@ -1,5 +1,5 @@
 {
-  "name": "Zentry__3-3-25",
+  "name": "zentry-3-3-25",
   "homepage": "https://NN-Bayat.github.io/Zentry__3-3-25",
   "private": true,
   "version": "0.0.0",
@@ -18,7 +18,8 @@
     "gsap": "^3.12.7",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "react-icons": "^5.5.0"
+    "react-icons": "^5.5.0",
+    "react-use": "^17.6.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
