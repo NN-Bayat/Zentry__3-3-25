@@ -52,6 +52,10 @@ const About = () => {
             alt="Backgroud"
             className="absolute left-0 top-0 size-full object-cover"
           />
+          <img
+            src="/Zentry__3-3-25/img/stones.webp"
+            className="absolute left-0 top-20 size-full object-cover z-50"
+          />
         </div>
       </div>
     </div>
